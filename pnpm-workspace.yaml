@@ -1,0 +1,5 @@
+# Standalone package: develop against the local sdk-browser. Published installs use the
+# semver range in package.json.
+packages: []
+overrides:
+  '@relay-sdk/sdk-browser': link:../sdk-browser
