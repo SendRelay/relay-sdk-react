@@ -69,6 +69,7 @@ export function idleTrackerState(taskId = ''): TaskTrackerState {
     currentStageIndex: null,
     rider: null,
     eta: null,
+    searchExpiresAt: null,
     events: [],
     finished: false,
     error: null,

@@ -1,6 +1,6 @@
 {
   "name": "@relay-sdk/react",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "Official Relay React bindings - track a delivery live with one hook",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -35,7 +35,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@relay-sdk/sdk-browser": "^1.7.0"
+    "@relay-sdk/sdk-browser": "^1.8.0"
   },
   "peerDependencies": {
     "react": ">=18.0.0"
