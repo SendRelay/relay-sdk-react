@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.9.0 — 2026-11-08
+
+- Requires `@relay-sdk/sdk-browser` 1.9.0 behaviour: trackers handle `STAGE_ARRIVED`, `TASK_DETAILS_UPDATED` and `TASK_RIDER_UNASSIGNED` (a rider cancel Relay answers by finding another rider moves the task back to PENDING).
+
 ## 1.8.0 — 2026-11-03
 
 - Keep looking for a rider and scheduled pickups ([dispatch strategies](https://docs.sendrelay.com.ng/tasks/keep-looking-and-scheduling)).

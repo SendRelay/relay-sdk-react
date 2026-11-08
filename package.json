@@ -1,6 +1,6 @@
 {
   "name": "@relay-sdk/react",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "Official Relay React bindings - track a delivery live with one hook",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
