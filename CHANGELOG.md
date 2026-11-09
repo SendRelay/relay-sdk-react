@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.10.0 — 2026-11-09
+
+- Released with `@relay-sdk/sdk-browser` 1.10.0: presence types add `requirements`, and the tracker now receives each task's events in revision order, once. No change in this package.
+
 ## 1.9.0 — 2026-11-08
 
 - Requires `@relay-sdk/sdk-browser` 1.9.0 behaviour: trackers handle `STAGE_ARRIVED`, `TASK_DETAILS_UPDATED` and `TASK_RIDER_UNASSIGNED` (a rider cancel Relay answers by finding another rider moves the task back to PENDING).
