@@ -1,6 +1,6 @@
 # @relay-sdk/react
 
-Official [Relay](https://sendrelay.com.ng) React bindings: show a delivery's status, the rider on a map and a live arrival time with one hook.
+Official [SendRelay](https://sendrelay.com.ng) React bindings: show a delivery's status, the rider on a map and a live arrival time with one hook.
 
 ```bash
 npm install @relay-sdk/react

@@ -1,5 +1,5 @@
 /**
- * Official Relay React bindings: put a `RelayProvider` near the top of your app and call
+ * Official SendRelay React bindings: put a `RelayProvider` near the top of your app and call
  * `useTaskTracker(taskId)` wherever you show a delivery.
  *
  * Built on `@relay-sdk/sdk-browser`. Every framework binding wraps the same `createTaskTracker`
