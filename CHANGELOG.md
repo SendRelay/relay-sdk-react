@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.11.0 — 2026-11-14
+
+- Built against `@relay-sdk/sdk-browser` 1.11.0, where `PresenceVehicleType` no longer includes `BIKE`. No other change.
+
 ## 1.10.0 — 2026-11-09
 
 - Released with `@relay-sdk/sdk-browser` 1.10.0: presence types add `requirements`, and the tracker now receives each task's events in revision order, once. No change in this package.
