@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.12.0 — 2026-11-15
+
+- `useTaskTracker` returns `pooling` and `stopsBefore` for pooled deliveries, from `@relay-sdk/sdk-browser` 1.11. See [pooled delivery](https://docs.sendrelay.com.ng/concepts/pooled-delivery).
+
 ## 1.11.0 — 2026-11-14
 
 - Built against `@relay-sdk/sdk-browser` 1.11.0, where `PresenceVehicleType` no longer includes `BIKE`. No other change.
