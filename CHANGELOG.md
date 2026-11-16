@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.13.0 — 2026-11-16
+
+- `useTaskTracker` returns `approval` (the rider's open question on an errand) and records `STAGE_FAILED`, `APPROVAL_REQUESTED` and `APPROVAL_RESOLVED` in `events`, from `@relay-sdk/sdk-browser` 1.13. See [errands](https://docs.sendrelay.com.ng/errands).
+
 ## 1.12.0 — 2026-11-15
 
 - `useTaskTracker` returns `pooling` and `stopsBefore` for pooled deliveries, from `@relay-sdk/sdk-browser` 1.11. See [pooled delivery](https://docs.sendrelay.com.ng/concepts/pooled-delivery).
